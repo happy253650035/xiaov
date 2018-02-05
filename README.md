@@ -1,6 +1,6 @@
 # [XiaoV](https://github.com/b3log/xiaov) [![Build Status](https://img.shields.io/travis/b3log/xiaov.svg?style=flat)](https://travis-ci.org/b3log/xiaov)
 
-## 简介
+## 简介 测试
 
 [XiaoV](https://github.com/b3log/xiaov)（小薇）是一个用 Java 写的 QQ 聊天机器人 Web 服务，可以用于社群互动：
 
